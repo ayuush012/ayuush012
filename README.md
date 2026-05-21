@@ -36,13 +36,6 @@ By night, I build things — Claude API-powered web apps, internal agents, and p
 
 ---
 
-## 📊 GitHub Stats
-
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayuush012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuush012&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🤝 Let's Connect
 
